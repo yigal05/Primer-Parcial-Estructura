@@ -229,13 +229,14 @@ class List{
 
         void addcity( unsigned int elem , unsigned int other  ){
             // crea una conexion entre el elemento de esta posicion y el elemento de otra 
-            //esto lo hace añadiendo el puntero de other el al vecoor de punteros que tiene elem;
+            //esto lo hace añadiendo el puntero de other el al vector de punteros que tiene elem;
         }
 
         void PrintConexiones( unsignet int elem){
             // imprime los elementos con los que hace conexion el elemento es decir el vecor conexiones
         }
         
+        (Estas son anotaciones mias pero no alcance implementar)
 
 };
 
